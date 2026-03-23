@@ -44,7 +44,7 @@ Admins can:
 - Direct contact with customers  
 
 𝐀𝐩𝐩 𝐏𝐫𝐞𝐯𝐢𝐞𝐰
-> Add your screenshots here (very important for winning)
+
 
 
 𝐖𝐡𝐲 𝐓𝐡𝐢𝐬 𝐌𝐚𝐭𝐭𝐞𝐫𝐬
