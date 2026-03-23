@@ -44,20 +44,20 @@ Admins can:
 - Direct contact with customers  
 
 𝐀𝐩𝐩 𝐏𝐫𝐞𝐯𝐢𝐞𝐰
-### 🏠 Home Screen
-![Home 1](Home%20screen%20Image.jpg)  
-![Home 2](Home%20screen%20image%202.jpg)  
-![Home 3](home%20screen%20image%203.jpg)
+# 🏠 Home Screen
+![Home 1](home1.png)  
+![Home 2](home2.png)  
+![Home 3](home3.png)
 
-### 📦 Order Page
-![Order](order%20page%20image.jpg)
+# 📦 Order Page
+![Order](order.png)
+# 🛠️ Admin Dashboard
+![Admin 1](admin1.png)  
+![Admin 2](admin2.png)
 
-### 🛠️ Admin Dashboard
-![Admin 1](Admin%20page%20image.jpg)  
-![Admin 2](admin%20page%20image%202.jpg)
+# 📄 Prescription Upload
+![Prescription](prescription.png)
 
-### 📄 Prescription Upload
-![Prescription](upload%20prescription%20page.jpg)
 𝐖𝐡𝐲 𝐓𝐡𝐢𝐬 𝐌𝐚𝐭𝐭𝐞𝐫𝐬
 This is not just a delivery app.
 
