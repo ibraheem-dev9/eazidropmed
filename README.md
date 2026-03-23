@@ -44,7 +44,22 @@ Admins can:
 - Direct contact with customers  
 
 𝐀𝐩𝐩 𝐏𝐫𝐞𝐯𝐢𝐞𝐰
+# App Preview
 
+# Home Screen
+![Home 1](home%20screen%20image.jpg)  
+![Home 2](home%20screen%20image%202.jpg)  
+![Home 3](home%20screen%20image%203.jpg)
+
+# Order Page
+![Order](order%20page.jpg)
+
+# Admin Dashboard
+![Admin 1](Admin%20page.jpg)  
+![Admin 2](admin%20page%202.jpg)
+
+# Prescription Upload
+![Prescription](upload%20prescription.jpg)
 
 
 𝐖𝐡𝐲 𝐓𝐡𝐢𝐬 𝐌𝐚𝐭𝐭𝐞𝐫𝐬
